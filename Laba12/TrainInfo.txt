@@ -1,0 +1,28 @@
+Assembly Name: Laba12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Contains public constructors: true
+Public constructors:
+Train (Int32 num)
+Train ()
+Fields and properties:
+System.String Destination
+System.String Time
+System.Int32 Places
+System.String duration
+System.Int32 Size
+System.Int32 hours
+System.String Duration
+Implemented interfaces:
+IComparable
+Methods with System.Int32 param:
+Destination
+TrainNumber
+Time
+Places
+value
+duration
+Size
+hours
+Counter
+Message
+Class
+

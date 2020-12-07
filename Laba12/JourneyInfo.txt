@@ -1,0 +1,16 @@
+Assembly Name: Laba12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Contains public constructors: true
+Public constructors:
+Journey (Int32 num)
+Journey ()
+Fields and properties:
+System.Int32 testNumber
+System.Char testCharacter
+System.String testProperty
+Implemented interfaces:
+ITest
+Methods with System.String param:
+<testProperty>k__BackingField
+testNumber
+testCharacter
+
